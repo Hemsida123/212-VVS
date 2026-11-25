@@ -1,0 +1,150 @@
+{
+  "company": {
+    "name": "212 VVS AB",
+    "phone": "076-010 56 58",
+    "tel": "+46760105658",
+    "email": "info@212.se",
+    "street": "Ljungbylund 116",
+    "postcode": "361 92",
+    "city": "Emmaboda",
+    "facebook": "https://www.facebook.com/212fastighetsservice?locale=sv_SE"
+  },
+  "services": [
+    {
+      "id": "vvs",
+      "title": "VVS",
+      "short": "Installation, service och renovering av VVS-system i hem och fastigheter."
+    },
+    {
+      "id": "rormokare",
+      "title": "Rörmokare",
+      "short": "Hjälp med rör, kranar, avlopp och befintliga installationer."
+    },
+    {
+      "id": "varmepump",
+      "title": "Värmepump",
+      "short": "Val, installation och underhåll av värmepumpar."
+    },
+    {
+      "id": "luftvarmepump",
+      "title": "Luftvärmepump",
+      "short": "Installation och service av luftvärmepumpar för hem och företag."
+    },
+    {
+      "id": "kylteknik",
+      "title": "Kylteknik",
+      "short": "Installation, underhåll och reparation av kylsystem."
+    }
+  ],
+  "service_areas": [
+    "Emmaboda",
+    "Nybro",
+    "Lessebo"
+  ],
+  "sources": [
+    {
+      "file": "research/home.html",
+      "url": "https://www.212.se/",
+      "sha256": "aadadc9a38a6c77aa93ef2497d1dbb4180c3fcd8db1b32f03328bf7f94a75671",
+      "retrieved": "2026-11-25"
+    },
+    {
+      "file": "research/integritetspolicy.html",
+      "url": "https://www.212.se/integritetspolicy/",
+      "sha256": "d2085fef704141fb740770a1ebe623dfaf7c4061f2e396e7f2952e1be0730a28",
+      "retrieved": "2026-11-25"
+    },
+    {
+      "file": "research/kylteknik-emmaboda.html",
+      "url": "https://www.212.se/kylteknik-emmaboda/",
+      "sha256": "07e43867decd0fcd68efeedfdedf6aa5872a627345ea0e593ee9cc1605ab481c",
+      "retrieved": "2026-11-25"
+    },
+    {
+      "file": "research/kylteknik-lessebo.html",
+      "url": "https://www.212.se/kylteknik-lessebo/",
+      "sha256": "f351b8eae7fbf9ca5a6b6c0d589a28706c9654a2edbde567e9fc567ff08eb901",
+      "retrieved": "2026-11-25"
+    },
+    {
+      "file": "research/kylteknik-nybro.html",
+      "url": "https://www.212.se/kylteknik-nybro/",
+      "sha256": "de8c35ff275e3c980936351f0de7712fffed55fbfe6263c70a8cd8aecfbbdc40",
+      "retrieved": "2026-11-25"
+    },
+    {
+      "file": "research/luftvarmepump-emmaboda.html",
+      "url": "https://www.212.se/luftvarmepump-emmaboda/",
+      "sha256": "37e2ee57fdb50b9522ea06690ea31475855e0d7ac2515f5e5079b1bef8be4632",
+      "retrieved": "2026-11-25"
+    },
+    {
+      "file": "research/luftvarmepump-lessebo.html",
+      "url": "https://www.212.se/luftvarmepump-lessebo/",
+      "sha256": "38c529dd9c1f199e51017e4148922e77fb41e98bc422167bc744146b79b5f8c3",
+      "retrieved": "2026-11-25"
+    },
+    {
+      "file": "research/luftvarmepump-nybro.html",
+      "url": "https://www.212.se/luftvarmepump-nybro/",
+      "sha256": "ea98722db07a4219f608cb947699fd66015068d18689a2003006147f87a48cf4",
+      "retrieved": "2026-11-25"
+    },
+    {
+      "file": "research/rormokare-emmaboda.html",
+      "url": "https://www.212.se/rormokare-emmaboda/",
+      "sha256": "cc038af0c9eab60126df7f5f4059af83e0be5917d28f81b0ecd5a28b0de4bec0",
+      "retrieved": "2026-11-25"
+    },
+    {
+      "file": "research/rormokare-lessebo.html",
+      "url": "https://www.212.se/rormokare-lessebo/",
+      "sha256": "8de51f329cffd48a1c3e78475c12c1f3cc698c70a9ac34f041122d4bb4f38faa",
+      "retrieved": "2026-11-25"
+    },
+    {
+      "file": "research/rormokare-nybro.html",
+      "url": "https://www.212.se/rormokare-nybro/",
+      "sha256": "af0dcdcc77d5100330853f7e9133d4265a5b682d9e34a31b9b267eff8775f4cb",
+      "retrieved": "2026-11-25"
+    },
+    {
+      "file": "research/varmepump-emmaboda.html",
+      "url": "https://www.212.se/varmepump-emmaboda/",
+      "sha256": "719e60ca9aab11f99049baab2919e485660e2337ce3db3d22b7fb83fdb5b08a7",
+      "retrieved": "2026-11-25"
+    },
+    {
+      "file": "research/varmepump-nybro.html",
+      "url": "https://www.212.se/varmepump-nybro/",
+      "sha256": "fd0bb142f453f9a807db5588beaf6b7a912b3ebaec8ff75e5600aa18e4efe181",
+      "retrieved": "2026-11-25"
+    },
+    {
+      "file": "research/vvs-emmaboda.html",
+      "url": "https://www.212.se/vvs-emmaboda/",
+      "sha256": "9e33ebb735bf8240a065d92758b49e275212ac3d36d39bdc94b27773f4ee6d82",
+      "retrieved": "2026-11-25"
+    },
+    {
+      "file": "research/vvs-nybro.html",
+      "url": "https://www.212.se/vvs-nybro/",
+      "sha256": "6ec268370df57308c45750b37f13c6976227927db9322b31140d992d52ebcf44",
+      "retrieved": "2026-11-25"
+    },
+    {
+      "file": "research/vvs-varmepump-lessebo.html",
+      "url": "https://www.212.se/vvs-varmepump-lessebo/",
+      "sha256": "64bc790d1ea0cc5b47648c976ba9b44491c9fb74915da3686d85e1312cb16755",
+      "retrieved": "2026-11-25"
+    }
+  ],
+  "notes": [
+    "Originalhomepage holds anchoredabout/services/contact, notseparatestandalonepages.",
+    "Originalsite lists14localserviceSEOURLs, preserved as aliases tothree meaningfularea views.",
+    "No claimedstaffnames,headcount,certificates,foundingyear,rating,guarantee,24hjour,priceorenergysavingfigure.",
+    "Gallerytitlesdescribevisiblecontent; no inventedclient,projectlocation,dateorbefore/afterrelationship. OriginalfamilyphotoandwoodengatecuratedoutofprofessionalVVSgallery.",
+    "OriginalvideodroneoverOlandnotusedasownprojectimage. Heroisoriginalgallerypipeplantphoto.",
+    "Standalonecontactisreviewedmaildraftonly; phoneoptional; noautomaticdata transmission."
+  ]
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "rorsystem",
+    "file": "assets/rorsystem.webp",
+    "width": 1520,
+    "height": 1900,
+    "alt": "Rörsystem i teknikutrymme",
+    "category": "VVS",
+    "source_url": "https://www.212.se/wp-content/uploads/2025/04/galleri-212-vvs-1.jpg"
+  },
+  {
+    "id": "renovering",
+    "file": "assets/renovering.webp",
+    "width": 960,
+    "height": 640,
+    "alt": "Arbete i en lokal under renovering",
+    "category": "Interiör",
+    "source_url": "https://www.212.se/wp-content/uploads/2025/04/galleri-212-vvs-2.jpg"
+  },
+  {
+    "id": "kok",
+    "file": "assets/kok.webp",
+    "width": 1037,
+    "height": 692,
+    "alt": "Köksinteriör med matplats",
+    "category": "Interiör",
+    "source_url": "https://www.212.se/wp-content/uploads/2025/04/galleri-212-vvs-3.jpg"
+  },
+  {
+    "id": "material",
+    "file": "assets/material.webp",
+    "width": 1520,
+    "height": 1900,
+    "alt": "Rör och arbetsmaterial i en lokal",
+    "category": "VVS",
+    "source_url": "https://www.212.se/wp-content/uploads/2025/04/galleri-212-vvs-6.jpg"
+  },
+  {
+    "id": "arbete",
+    "file": "assets/arbete.webp",
+    "width": 1425,
+    "height": 1900,
+    "alt": "Arbete med isolerade rör i en lokal",
+    "category": "VVS",
+    "source_url": "https://www.212.se/wp-content/uploads/2025/04/485951010_1073852518072963_6259894567242437676_n.jpg"
+  },
+  {
+    "id": "verksamheten",
+    "file": "assets/verksamheten.webp",
+    "width": 1425,
+    "height": 1900,
+    "alt": "Två personer vid en 212-märkt servicebil",
+    "category": "Verksamhet",
+    "source_url": "https://www.212.se/wp-content/uploads/2025/04/485308191_1070420355082846_1352838834247958096_n.jpg"
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "file": "assets/rorsystem.webp",
+    "source_url": "https://www.212.se/wp-content/uploads/2025/04/galleri-212-vvs-1.jpg",
+    "sha256": "baf42298b2b14679d7bbc7ef60c1a6db18da2b19e5f183b7182fd7e83b807be7",
+    "original_alt": "",
+    "original_sha256": "b4759b37b55e06705a5719f7f3a8238894acb351bd658561934655a652cd1ca6",
+    "width": 1520,
+    "height": 1900,
+    "alt": "Rörsystem i teknikutrymme",
+    "context": "Published on original212homepage; descriptive image title only, no projectclient/date/location asserted.",
+    "category": "VVS",
+    "id": "rorsystem"
+  },
+  {
+    "file": "assets/renovering.webp",
+    "source_url": "https://www.212.se/wp-content/uploads/2025/04/galleri-212-vvs-2.jpg",
+    "sha256": "4cda1a041b1dd1a88d5e1cebb5b7b72b1fa99c532ff8c1da1816867b6e35c295",
+    "original_alt": "",
+    "original_sha256": "e147a95824acd4033b7fa81c3d5bbb9ac8688be1b4959635beb653beb92058a8",
+    "width": 960,
+    "height": 640,
+    "alt": "Arbete i en lokal under renovering",
+    "context": "Published on original212homepage; descriptive image title only, no projectclient/date/location asserted.",
+    "category": "Interiör",
+    "id": "renovering"
+  },
+  {
+    "file": "assets/kok.webp",
+    "source_url": "https://www.212.se/wp-content/uploads/2025/04/galleri-212-vvs-3.jpg",
+    "sha256": "7749dc9dd8533668b142ed4edcb0459be45539b380f29c6bd5c7cfac4aaaec25",
+    "original_alt": "",
+    "original_sha256": "e972f9606a3af59ef5a6882f41ae8217db8f6ded71bcf25ae289f2e7eee478b9",
+    "width": 1037,
+    "height": 692,
+    "alt": "Köksinteriör med matplats",
+    "context": "Published on original212homepage; descriptive image title only, no projectclient/date/location asserted.",
+    "category": "Interiör",
+    "id": "kok"
+  },
+  {
+    "file": "assets/material.webp",
+    "source_url": "https://www.212.se/wp-content/uploads/2025/04/galleri-212-vvs-6.jpg",
+    "sha256": "ef33bba8e53ceb75f7a45a3cd94b05edcb12fa47993bd2181c397b263df7b346",
+    "original_alt": "",
+    "original_sha256": "3181dd51bfcc43d9935cd4c440a9ff9150cc48062f4f0b8c3b73c4bf8df2fe3c",
+    "width": 1520,
+    "height": 1900,
+    "alt": "Rör och arbetsmaterial i en lokal",
+    "context": "Published on original212homepage; descriptive image title only, no projectclient/date/location asserted.",
+    "category": "VVS",
+    "id": "material"
+  },
+  {
+    "file": "assets/arbete.webp",
+    "source_url": "https://www.212.se/wp-content/uploads/2025/04/485951010_1073852518072963_6259894567242437676_n.jpg",
+    "sha256": "d8394e97b4a0d3787ce2b4bbf9c40aba0fc49ae4ba33392d2c3b91bdfedd3672",
+    "original_alt": "",
+    "original_sha256": "107e4c936a04ab27cd839f91e2ecd20e2e3e287d8066b88ddc33e711de1c3b92",
+    "width": 1425,
+    "height": 1900,
+    "alt": "Arbete med isolerade rör i en lokal",
+    "context": "Published on original212homepage; descriptive image title only, no projectclient/date/location asserted.",
+    "category": "VVS",
+    "id": "arbete"
+  },
+  {
+    "file": "assets/verksamheten.webp",
+    "source_url": "https://www.212.se/wp-content/uploads/2025/04/485308191_1070420355082846_1352838834247958096_n.jpg",
+    "sha256": "4d6a7cf166887d37adefd16551296f65b382c7abd614deab9f10e963431fe0c5",
+    "original_alt": "",
+    "original_sha256": "7d81627280a3baba81fa2033eb24781837dcdd07bca94d331bbebba3db8ac4fb",
+    "width": 1425,
+    "height": 1900,
+    "alt": "Två personer vid en 212-märkt servicebil",
+    "context": "Published on original212homepage; descriptive image title only, no projectclient/date/location asserted.",
+    "category": "Verksamhet",
+    "id": "verksamheten"
+  },
+  {
+    "file": "assets/logo.png",
+    "source_url": "https://www.212.se/wp-content/uploads/2023/07/212-logo-vit.png",
+    "sha256": "7116ab3cf74b853d36c168d6d033a8644f21957f6a0d1121db945242cf1d17fd",
+    "original_alt": "212 VVS AB",
+    "width": 137,
+    "height": 143,
+    "original_sha256": "d184e224d8c9e4d67342f4cb7da2aa969928baa70250fdb0b729494ddc503346",
+    "alt": "212 VVS AB",
+    "context": "Original white transparent logo; only transparentoutermargins cropped, no mark recoloring/redrawing."
+  }
+]
